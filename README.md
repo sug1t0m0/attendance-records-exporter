@@ -3,5 +3,16 @@ This is a tool that simplifies filling out the spreadsheets used to manage our a
 
 # Introduction
 
-- install (golangci-lint)[https://golangci-lint.run/usage/install/]
+- install [golangci-lint](https://golangci-lint.run/usage/install/)
 
+# Develop
+
+- run lint
+  ```zsh
+  make run lint
+  ```
+
+- run test
+  ```zsh
+  make run test
+  ```
